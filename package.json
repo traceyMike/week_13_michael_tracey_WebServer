@@ -1,0 +1,19 @@
+{
+  "name": "combine_wyr_vue_and_random_wyr_app",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "body-parser": "^1.20.3",
+    "hbs": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
